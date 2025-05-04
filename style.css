@@ -1,0 +1,28 @@
+body {
+  background-color: #f4f4f4;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 40px;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.1);
+}
+.symbol {
+  width: 120px;
+  margin-bottom: 20px;
+}
+a {
+  display: block;
+  margin-top: 10px;
+  color: #444;
+  text-decoration: none;
+}
+a:hover {
+  color: #000;
+}

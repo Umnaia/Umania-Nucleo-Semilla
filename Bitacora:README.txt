@@ -1,0 +1,1 @@
+Aquí se registrarán los ecos, símbolos y experiencias sutiles del campo.
